@@ -31,4 +31,5 @@ payload:
   - PROCESS-NAME,WeMeetApp.exe
   - PROCESS-NAME,WMExternal.exe
   - PROCESS-NAME,HeyboxChat.exe
+  - PROCESS-NAME,VBoxNetNAT.exe
   - DOMAIN,service-aggregation-layer-subs.juno.ea.com
