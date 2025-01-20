@@ -551,6 +551,7 @@ payload:
   - DOMAIN-KEYWORD,steamstore
   - DOMAIN-KEYWORD,steamuserimages
   - PROCESS-NAME,OverwolfBrowser.exe
+  - PROCESS-NAME,Overwolf.exe
   - IP-CIDR,182.162.135.1/32
   - IP-CIDR,210.242.235.6/32
   - IP-CIDR,54.94.196.47/32
