@@ -42,4 +42,4 @@ payload:
   - PROCESS-NAME,WeChat.exe
   - DOMAIN,turnjs.629957.xyz
   - PROCESS-NAME,astral.exe
-  - DOMAIN,bungie.net
+  - DOMAIN,api.destinyitemmanager.com
