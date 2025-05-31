@@ -1,0 +1,21 @@
+payload:
+#卡戎
+ - DOMAIN,play.charontv.com
+#Lyrebird
+ - DOMAIN,cdn.lyrebirdemby.com
+#纸片人
+ - DOMAIN,embyplus.org
+ - DOMAIN,gd.9521732.xyz
+ - DOMAIN,hyonix.embyplus.org
+ - IP-CIDR,89.58.18.111/32
+ - DOMAIN,emby3.029902.xyz
+ - DOMAIN,stream.embyplus.org
+#Star-Cat
+ - DOMAIN,flare.catlinks.co.uk
+ - DOMAIN,xxx.887711.xyz
+ - DOMAIN,osccxw.starcat.eu.org
+ - DOMAIN,starcat-gshou.887711.xyz
+ - DOMAIN,wu2qu382uwb2y431-wxbki2.catlink.eu.org
+ - DOMAIN,shuigawd921hfs-ef27893hrsf.catlinks.co.uk
+ - DOMAIN,sefsehf3hiu2345ioj235.puddingcat.de
+ - DOMAIN,cdsalw2lw.catlinks.co.uk
