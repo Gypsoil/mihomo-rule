@@ -9,3 +9,4 @@ payload:
   - DOMAIN,wiki.repcz.link
   - DOMAIN,mcreadme.gitbook.io
   - DOMAIN,xfltd.net
+  - IP-CIDR,10.1.99.100/32
