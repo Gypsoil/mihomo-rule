@@ -8,6 +8,7 @@
 # TOTAL: 34
 payload:
   - DOMAIN-SUFFIX,qbittorrent.org
+  - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-KEYWORD,aria2
   - DOMAIN-KEYWORD,thunder
   - DOMAIN-KEYWORD,xlliveud
