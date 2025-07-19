@@ -80,3 +80,5 @@ payload:
   - DOMAIN,tanhuatv.site
 #ikun
   - DOMAIN,music.xxxh.de
+#SNTP
+  - DOMAIN,lite.cn2gias.uk  
