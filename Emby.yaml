@@ -81,4 +81,6 @@ payload:
 #ikun
   - DOMAIN,music.xxxh.de
 #SNTP
-  - DOMAIN,lite.cn2gias.uk  
+  - DOMAIN,lite.cn2gias.uk
+#OK
+  - link00.okemby.org  
