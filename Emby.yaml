@@ -83,4 +83,4 @@ payload:
 #SNTP
   - DOMAIN,lite.cn2gias.uk
 #OK
-  - link00.okemby.org  
+  - DOMAIN,link00.okemby.org  
