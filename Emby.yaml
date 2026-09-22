@@ -1,11 +1,31 @@
 payload:
-#Emby进程
-  - PROCESS-NAME,HillsLite.exe
+#hxd
+  - DOMAIN,hxd.as174.de
+  - DOMAIN,cf.bili.rip
+  - DOMAIN,emby.as174.de
+  - DOMAIN,emby.as174.com
+#misty
+  - DOMAIN,misty.cx
+#NyaMedia
+  - DOMAIN,emby.bangumi.ca
+  - IP-CIDR,103.177.137.228/32
+#放映厅
+  - DOMAIN,emby.9191001.xyz
+#peach
+  - DOMAIN,embymv.link
+  - IP-CIDR,152.53.81.68/32
+#纸片人
+  - DOMAIN,embyplus.org
+  - DOMAIN,emby4.029902.xyz
+  - DOMAIN,stream.embyplus.org
 #cc公益
   - DOMAIN,cc.coemn.com
   - DOMAIN,cc.embycc.link
-  - DOMAIN,dl.carryz.net
+  - DOMAIN,lt1.carryz.net
+  - IP-CIDR,146.56.174.58/32
+#Pilipili
+  - DOMAIN,emby.pilipiliultra.com
+  - DOMAIN,streamer-cf.pilipiliultra.com
+  - DOMAIN,manga.pilipiliultra.com
 #OK
-  - DOMAIN,link00.okemby.org  
-#臻影
-  - DOMAIN,emby.kingemby.xyz
+  - DOMAIN,link00.okemby.org
