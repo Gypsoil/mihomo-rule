@@ -11,4 +11,5 @@ payload:
   - DOMAIN-SUFFIX,cfargotunnel.com
   - DOMAIN-SUFFIX,argotunnel.com
   - DOMAIN-SUFFIX,ac.ea.com
+  - DOMAIN-SUFFIX,ws.symantec.com
   - AND,((DOMAIN-SUFFIX,peko2r.cc.cd),(NOT,((DOMAIN-SUFFIX,luci.peko2r.cc.cd))))
