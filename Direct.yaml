@@ -1,46 +1,14 @@
 payload:
-  - DOMAIN,pphimalayanrt.com
-  - PROCESS-NAME,gamingservices.exe
-  - PROCESS-NAME,RiotClientServices.exe
-  - PROCESS-NAME,完美世界竞技平台.exe
-  - PROCESS-NAME,cs2.exe
+  - DOMAIN-KEYWORD,tailscale
+  - DOMAIN,elysia.h-e.top
+  - DOMAIN,aigw-gzgy2.cucloud.cn
   - DOMAIN-KEYWORD,valorant
   - DOMAIN-KEYWORD,Riot
-  - DOMAIN,ipv4.egdownload.fastly-edge.com
-  - IP-CIDR,115.238.185.234/32
-  - IP-CIDR,23.49.104.184/32
-  - IP-CIDR,10.1.99.100/32
-  - DOMAIN,ssl.ptlogin2.qq.com
-  - DOMAIN,dhs752jdkpq3ns.catlinks.co.uk
-  - PROCESS-NAME,TASLogin64.exe
-  - PROCESS-NAME,NMS.exe
-  - PROCESS-NAME,CrossProxy.exe
-  - PROCESS-NAME,UnrealCEFSubProcess.exe
-  - PROCESS-NAME,vgtray.exe
-  - PROCESS-NAME,RvControlSvc.exe
-  - PROCESS-NAME,Plain Craft Launcher 2.exe
-  - PROCESS-NAME,javaw.exe
-  - PROCESS-NAME,RvRvpnGui.exe
-  - PROCESS-NAME,SCUM.exe
-  - PROCESS-NAME,scum_launcher.exe
-  - PROCESS-NAME,leishenSdk.exe
-  - PROCESS-NAME,GameBarPresenceWriter.exe
-  - DOMAIN,tdck.fun
-  - PROCESS-NAME,QQ.exe
-  - PROCESS-NAME,WeMeetApp.exe
-  - PROCESS-NAME,WMExternal.exe
-  - PROCESS-NAME,HeyboxChat.exe
-  - DOMAIN,service-aggregation-layer-subs.juno.ea.com
-  - DOMAIN,cn.download.nvidia.com
-  - DOMAIN,tp.m-team.cc
-  - DOMAIN,webseed.nhentai.net
-  - PROCESS-NAME,overwatch.exe
-  - PROCESS-NAME,Battle.net.exe
-  - PROCESS-NAME,OWNeacClient.exe
-  - PROCESS-NAME,Agent.exe
-  - PROCESS-NAME,deadlock.exe
-  - PROCESS-NAME,SplitFiction.exe
-  - PROCESS-NAME,WeChat.exe
-  - DOMAIN,turnjs.629957.xyz
-  - PROCESS-NAME,astral.exe
-  - DOMAIN,bray.tech
+  - DOMAIN-SUFFIX,test-ipv6.com
+  - DOMAIN,fsend.cn,DIRECT
+  - DOMAIN,international-gfe.download.nvidia.com
+  - DOMAIN-SUFFIX,fsfsffs.dpdns.org
+  - DOMAIN-SUFFIX,cfargotunnel.com
+  - DOMAIN-SUFFIX,argotunnel.com
+  - DOMAIN-SUFFIX,ac.ea.com
+  - AND,((DOMAIN-SUFFIX,peko2r.cc.cd),(NOT,((DOMAIN-SUFFIX,luci.peko2r.cc.cd))))
