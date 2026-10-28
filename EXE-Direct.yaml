@@ -38,7 +38,3 @@ payload:
   - PROCESS-NAME,SlayTheSpire2.exe
   - PROCESS-NAME,cloudflared.exe
   - PROCESS-NAME,r5apex_dx12.exe
-  - PROCESS-NAME,EAAntiCheat.GameService.exe
-  - PROCESS-NAME,EAAntiCheat.GameServiceLauncher.exe
-  - PROCESS-NAME,EAAntiCheat.Installer.exe
-  - PROCESS-NAME,EAAntiCheat.GameServiceLauncher.exe_b
