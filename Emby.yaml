@@ -12,7 +12,7 @@ payload:
 #放映厅
   - DOMAIN,emby.9191001.xyz
 #peach
-  - DOMAIN,embymv.link
+  - DOMAIN,embymv.cc
   - IP-CIDR,152.53.81.68/32
 #纸片人
   - DOMAIN,embyplus.org
