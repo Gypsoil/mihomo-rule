@@ -38,6 +38,6 @@ payload:
   - PROCESS-NAME,SlayTheSpire2.exe
   - PROCESS-NAME,cloudflared.exe
   - PROCESS-NAME,r5apex_dx12.exe
-  - PROCESS-NAME,WeChat.exe,DIRECT
-  - PROCESS-NAME,WeChatAppEx.exe,DIRECT
-  - PROCESS-NAME,Weixin.exe,DIREC
+  - PROCESS-NAME,WeChat.exe
+  - PROCESS-NAME,WeChatAppEx.exe
+  - PROCESS-NAME,Weixin.exe
